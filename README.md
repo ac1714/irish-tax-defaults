@@ -10,3 +10,6 @@ I took data from the Irish revenue website along with Irish census data and afte
 ##Check out my blog post here:
 
 [http://www.eol.as/?p=141](http://www.eol.as/?p=141)
+
+##Full version here, you may have to refresh you browser a few times:
+[http://eol.as/viz/tax2012/](http://eol.as/viz/tax2012/)
